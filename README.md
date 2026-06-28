@@ -16,11 +16,10 @@
 
 ## 📺 Demo Video
 
-https://github.com/user-attachments/assets/b8354c00-0df1-4ebc-88e2-f70570b8c6e2 (Note: GitHub supports direct video integration, rendering the R2 link below):
+[![Watch AnySave Demo Video](src/assets/hero.png)](https://pub-ed45bcfe138f43059e17714556deba2a.r2.dev/AnySave/AnySave.mp4)
 
-<video src="https://pub-ed45bcfe138f43059e17714556deba2a.r2.dev/AnySave/AnySave.mp4" width="100%" controls autoplay loop muted></video>
+*(Click the image above to watch the demo video)*
 
----
 
 ## ✨ Key Features
 
