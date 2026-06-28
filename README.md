@@ -20,6 +20,19 @@
 
 *(Click the image above to watch the demo video)*
 
+---
+
+## 🌐 Need Help, Demos, or More Tools?
+
+If you run into any issues, want to see high-quality screenshot previews and walkthrough videos, or want to check out other cool tools we have built, please visit our official website:
+
+👉 **[OmniTool Official Website](https://www.omnitool.site/)**
+
+* **🔧 Quick Support & Solutions**: Find instant solutions to any errors, setup issues, or download failures.
+* **🎥 Demos & Guides**: Access step-by-step videos and detailed visual guides for using all features.
+* **🚀 Discover New Tools**: Explore and download our other latest products and applications.
+
+---
 
 ## ✨ Key Features
 
